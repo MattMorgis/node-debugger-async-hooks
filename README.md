@@ -13,7 +13,7 @@ Run the program
 node --inspect --inspect-brk index.js
 ```
 
-The program will stop to allow you to connect a debugger. Open Chrome and go to [chrome://inspect](chrome://inspect/).  
+The program will stop to allow you to connect a debugger. Open Chrome and go to [`chrome://inspect`](chrome://inspect/).  
 
 Select your remote target in the list and press the "Resume Execution" arrow in the debugging controls. 
 
